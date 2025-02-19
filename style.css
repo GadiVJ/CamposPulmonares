@@ -1,0 +1,32 @@
+body {
+    background-image: url("fondocampos.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    min-height: 100vh; /* Asegura que el fondo cubra toda la altura de la ventana */
+    font-family: "Shadows Into Light", cursive;
+    background-color: lightblue; /* Color de fondo temporal para pruebas */
+  }
+  
+  .main_div button {
+    font-family: "Shadows Into Light", cursive;
+    color: rgb(253, 254, 255);
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+  }
+  
+  .copy_right_footer {
+    position: fixed;
+    color: rgb(253, 254, 255);
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(255, 255, 255);
+  }
+  .text-white {
+    color: white;}
